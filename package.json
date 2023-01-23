@@ -13,8 +13,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "server": "json-server --watch db.json -p 8001",
-    "build": "react-scripts build"
+     "build": "react-scripts build"
   },
   "eslintConfig": {
     "extends": [
